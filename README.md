@@ -13,8 +13,6 @@
 
 
 
-## Desenvolvedor front-end
-
 
 ### Habilidades
 
