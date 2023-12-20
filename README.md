@@ -26,6 +26,7 @@
 ![SASS,SCSS](https://img.shields.io/badge/sass/scss-000?style=for-the-badge&logo=sass&logoColor=cc6699)
 
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=21759b)
+![Elementor](https://img.shields.io/badge/Elementor-000?style=for-the-badge&logo=elementor&logoColor=92003B)
 
 ![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-000?style=for-the-badge&logo=google&logoColor=FF7F00)
 
