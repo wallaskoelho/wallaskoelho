@@ -22,6 +22,8 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
+[![FIGMA](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=30A3DC)
+
 ![SASS,SCSS](https://img.shields.io/badge/sass/scss-000?style=for-the-badge&logo=sass&logoColor=cc6699)
 
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=21759b)
