@@ -7,10 +7,10 @@
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO.ME-000?style=for-the-badge)](https://www.dio.me/users/cbw_coelho)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/wallas-koelho/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wallas-koelho/)
 [![X](https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=x&logoColor=fffff)](https://twitter.com/wallaskoelho)
-[![Intagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=DD2A7B)](https://www.instagram.com/wallaskoelho_dev/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:cbw.coelho@gmail.com)
+[![Intagram](https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/wallaskoelho_dev/)
+[![E-mail](https://img.shields.io/badge/-Email-E94D5F?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:cbw.coelho@gmail.com)
 
 
 ### Habilidades
