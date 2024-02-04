@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 
-![FIGMA](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=30A3DC)
+![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
 ![SASS,SCSS](https://img.shields.io/badge/sass/scss-000?style=for-the-badge&logo=sass&logoColor=cc6699)
 
