@@ -27,9 +27,9 @@
 
 ![SASS,SCSS](https://img.shields.io/badge/sass/scss-cc6699?style=for-the-badge&logo=sass&logoColor=fff)
 
-![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=21759b)
-![WooCommerce](https://img.shields.io/badge/-woocommerce-000?style=for-the-badge&logo=woocommerce&logoColor=96588a)
-![Elementor](https://img.shields.io/badge/Elementor-000?style=for-the-badge&logo=elementor&logoColor=92003B)
+![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=fff)
+![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)
 
 ![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-000?style=for-the-badge&logo=google&logoColor=FF7F00)
 
