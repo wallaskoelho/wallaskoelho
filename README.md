@@ -25,7 +25,7 @@
 
 ![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
-![SASS,SCSS](https://img.shields.io/badge/sass/scss-000?style=for-the-badge&logo=sass&logoColor=cc6699)
+![SASS,SCSS](https://img.shields.io/badge/sass/scss-cc6699?style=for-the-badge&logo=sass&logoColor=fff)
 
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=21759b)
 ![WooCommerce](https://img.shields.io/badge/-woocommerce-000?style=for-the-badge&logo=woocommerce&logoColor=96588a)
