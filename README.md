@@ -31,7 +31,7 @@
 ![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)
 
-![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-000?style=for-the-badge&logo=google&logoColor=FF7F00)
+![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-FF7F00?style=for-the-badge&logo=google&logoColor=fff)
 
 ### GitHub Stats
 
