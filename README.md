@@ -21,7 +21,7 @@
 )
 
 ![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=fff)
+[![GitHub](https://github.com/wallaskoelho/)](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=fff)
 
 ![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
