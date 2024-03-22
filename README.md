@@ -15,14 +15,19 @@
 
 ### Habilidades
 
+## Linguagens de programacao
+
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![SASS,SCSS](https://img.shields.io/badge/sass/scss-cc6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330
 )](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+## Ferramentas de versionamento de código
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/wallaskoelho/)
+
+## Ferramentas de design
 
 [![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/)
 
@@ -36,11 +41,15 @@
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_css-38BDF8?style=for-the-badge&logo=Tailwind-css&logoColor=fff)](https://tailwindcss.com/)
 
+## CMS
+
 [![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=fff)](https://wordpress.org/)
 ![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)
 
-![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-FF7F00?style=for-the-badge&logo=google&logoColor=fff)
+## Especialização
+
+[![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-FF7F00?style=for-the-badge&logo=google&logoColor=fff)](https://developers.google.com/search/docs/crawling-indexing?hl=pt-br%2F%3Fq%3Dseo%20t%C3%A9cnico)
 
 ### GitHub Stats
 
