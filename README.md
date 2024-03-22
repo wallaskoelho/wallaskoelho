@@ -27,7 +27,10 @@
 
 ![SASS,SCSS](https://img.shields.io/badge/sass/scss-cc6699?style=for-the-badge&logo=sass&logoColor=fff)
 
-[![Bootstrap](https://img.shields.io/badge/bootstrap-1A239C?style=for-the-badge&logo=bootstrap&logoColor=fff)](<a target="_blank">https://getbootstrap.com/</a>)
+
+
+<a href="https://getbootstrap.com/" target="_blank">![Bootstrap](https://img.shields.io/badge/bootstrap-1A239C?style=for-the-badge&logo=bootstrap&logoColor=fff)</a> 
+
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_css-38BDF8?style=for-the-badge&logo=Tailwind-css&logoColor=fff)](https://tailwindcss.com/)
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=fff)](https://wordpress.org/)
