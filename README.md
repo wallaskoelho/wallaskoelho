@@ -13,7 +13,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-E94D5F?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:cbw.coelho@gmail.com)
 
 
-### Habilidades
+## Habilidades
 
 ## Linguagens de programacao
 
@@ -33,11 +33,11 @@
 
 
 
-### frameworks
+## frameworks
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-1A239C?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
 
-### Bibliotecas
+## Bibliotecas
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_css-38BDF8?style=for-the-badge&logo=Tailwind-css&logoColor=fff)](https://tailwindcss.com/)
 
@@ -51,7 +51,7 @@
 
 [![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-FF7F00?style=for-the-badge&logo=google&logoColor=fff)](https://developers.google.com/search/docs/crawling-indexing?hl=pt-br%2F%3Fq%3Dseo%20t%C3%A9cnico)
 
-### GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaskoelho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wallaskoelho&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
