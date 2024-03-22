@@ -44,8 +44,11 @@
 ## CMS
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=fff)](https://wordpress.org/)
-![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)
+
+## Plugins cms
+
+[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)](https://elementor.com/)
+[![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)](https://woo.com/pt-br/woocommerce/)
 
 ## Especialização
 
