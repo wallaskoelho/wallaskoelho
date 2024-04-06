@@ -13,7 +13,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-E94D5F?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:cbw.coelho@gmail.com)
 
 
-## Habilidades
+# Hard Skills
 
 ## Linguagens de programacao
 
@@ -53,6 +53,9 @@
 ## Especialização
 
 [![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-FF7F00?style=for-the-badge&logo=google&logoColor=fff)](https://developers.google.com/search/docs/crawling-indexing?hl=pt-br%2F%3Fq%3Dseo%20t%C3%A9cnico)
+
+
+# Soft Skill
 
 ## GitHub Stats
 
