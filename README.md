@@ -57,6 +57,15 @@
 
 # Soft Skill
 
+Networking: Uma Base de Apoio para o Sucesso!
+Liderança: Aprenda a ser um(a) Líder de Verdade!
+Gerenciamento de Novos Negócios: Visão sobre Erros e Acertos!
+Finanças Pessoais: Crescimento, Estabilização e Segurança para Momentos de Crise
+BRAINSTORM para Negócios: Adaptação, Crescimento e Dinheiro Extra!
+Aprenda a Vencer a Timidez!
+A Arte dos Preços: A Diferença entre o Lucro e o Prejuízo
+A Arte da Imperfeição para o Desenvolvimento Pessoal
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaskoelho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
