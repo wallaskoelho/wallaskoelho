@@ -54,6 +54,15 @@
 
 [![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-FF7F00?style=for-the-badge&logo=google&logoColor=fff)](https://developers.google.com/search/docs/crawling-indexing?hl=pt-br%2F%3Fq%3Dseo%20t%C3%A9cnico)
 
+## Certificações
+Curso intensivo de SEO da Semrush com Brian Dean
+
+Como Criar todo os tipos de Backups no WordPress
+
+Formação Core Web Vitals 3.0
+
+
+
 
 # Soft Skill
 
