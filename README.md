@@ -56,7 +56,8 @@
 
 ## Certificações
 
-[![Potência Tech iFood - Programação do Zero]](https://www.dio.me/certificate/9288D589/share)
+[![Potência Tech iFood - Programação do Zero](https://img.shields.io/badge/Pot%C3%AAncia%20Tech%20iFood%20%20Programa%C3%A7%C3%A3o%20do%20Zero-B9242D?style=for-the-badge&logo=ifood&logoColor=fff)](https://www.dio.me/certificate/9288D589/share)
+
 Curso intensivo de SEO da Semrush com Brian Dean
 
 Como Criar todo os tipos de Backups no WordPress
