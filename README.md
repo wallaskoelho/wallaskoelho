@@ -43,7 +43,7 @@
 
 ## Runtime
 
-[![Tailwind CSS](https://img.shields.io/badge/node.js-417E38?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en)
+[![NODE.JS](https://img.shields.io/badge/node.js-417E38?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en)
 
 ## CMS
 
