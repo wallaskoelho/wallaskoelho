@@ -15,7 +15,7 @@
 
 # Hard Skills
 
-## Linguagens de programacao
+## Linguagens de programação
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -33,7 +33,7 @@
 
 
 
-## frameworks
+## Frameworks
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-1A239C?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
 
@@ -49,10 +49,20 @@
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=fff)](https://wordpress.org/)
 
-## Plugins cms
+## Plugins CMS
 
 [![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)](https://elementor.com/)
 [![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)](https://woo.com/pt-br/woocommerce/)
+
+
+## Plataformas de e-commerce
+Tray
+Nuvemshop
+Loja Integrada
+
+## ERP
+Bling
+
 
 ## Especialização
 
