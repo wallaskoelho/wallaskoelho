@@ -28,11 +28,6 @@
 )](https://www.dio.me/certificate/VINLEJFK/share)
 [![NODE.JS](https://img.shields.io/badge/node.js-417E38?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en)
 
-<a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)</a>
-
-<div>
-<a href="https://git-scm.com/" target="_blank">git</a>
-</div>
 
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/wallaskoelho/)
