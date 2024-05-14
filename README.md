@@ -17,41 +17,26 @@
 
 
 
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff)](https://www.dio.me/certificate/65795E84/share) - Intermediário
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff)](https://www.dio.me/certificate/65795E84/share)
 
-[![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=fff)](https://www.dio.me/certificate/H710NFI5/share)
 [![SASS,SCSS](https://img.shields.io/badge/sass/scss-cc6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330
-)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-1A239C?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://www.dio.me/certificate/0NIBQZEC/share)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_css-38BDF8?style=for-the-badge&logo=Tailwind-css&logoColor=fff)](https://www.dio.me/certificate/INZZBETF/share)
 
-## Ferramentas de versionamento de código
+[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330
+)](https://www.dio.me/certificate/VINLEJFK/share)
+[![NODE.JS](https://img.shields.io/badge/node.js-417E38?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en)
+
+
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/wallaskoelho/)
-
-## Ferramentas de design
 
 [![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/)
 
 
 
-## Frameworks
-
-[![Bootstrap](https://img.shields.io/badge/bootstrap-1A239C?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
-
-## Bibliotecas
-
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_css-38BDF8?style=for-the-badge&logo=Tailwind-css&logoColor=fff)](https://tailwindcss.com/)
-
-## Runtime
-
-[![NODE.JS](https://img.shields.io/badge/node.js-417E38?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en)
-
-## CMS
-
 [![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=fff)](https://wordpress.org/)
-
-## Plugins CMS
-
 [![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)](https://elementor.com/)
 [![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)](https://woo.com/pt-br/woocommerce/)
 
