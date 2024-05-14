@@ -2,7 +2,7 @@
 # Wallas Koelho
 
 
-## Dev Front-end
+## Desenvolvedor Web Front-End - Junior
 
 ### Conecte-se comigo
 
