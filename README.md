@@ -26,7 +26,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330
 )](https://www.dio.me/certificate/VINLEJFK/share)
-[![NODE.JS](https://img.shields.io/badge/node.js-417E38?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en)
+[![NODE.JS](https://img.shields.io/badge/node.js-417E38?style=for-the-badge&logo=node.js&logoColor=fff)](https://www.dio.me/certificate/0A0MSPEN/share)
 
 
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
