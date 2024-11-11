@@ -30,6 +30,9 @@
 [![Angular](https://img.shields.io/badge/angular-D6002F?style=for-the-badge&logo=angular&logoColor=fff)](https://hermes.dio.me/certificates/ASGZK4QA.pdf)
 
 
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B008B?style=for-the-badge&logo=Cybersecurity&logoColor=fff)](https://hermes.dio.me/certificates/BL8MX63X.pdf)
+
+
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/wallaskoelho/)
 
