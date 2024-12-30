@@ -58,9 +58,11 @@ Bling
 
 [![SEO Técnico](https://img.shields.io/badge/seo%20tecnico-FF7F00?style=for-the-badge&logo=google&logoColor=fff)](https://developers.google.com/search/docs/crawling-indexing?hl=pt-br%2F%3Fq%3Dseo%20t%C3%A9cnico)
 
-## Certificações
+## Bootcamp
 
 [![Potência Tech iFood - Programação do Zero](https://img.shields.io/badge/Pot%C3%AAncia%20Tech%20iFood%20%3A%20Programa%C3%A7%C3%A3o%20do%20Zero-B9242D?style=for-the-badge&logo=ifood&logoColor=fff)](https://www.dio.me/certificate/9288D589/share)
+
+## Cursos Livres
 
 [![Formação Lógica de Programação](https://img.shields.io/badge/Forma%C3%A7%C3%A3o%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-4174B6?style=for-the-badge&logo=dio.me&logoColor=fff)](https://www.dio.me/certificate/DD2F9FC7/share)
 
