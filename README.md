@@ -16,7 +16,7 @@
 # Hard Skills
 
 
-[![UX/UI Designer](https://img.shields.io/badge/UX/UI%20Designer-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff)](https://hermes.dio.me/certificates/ZYOOBXTY.pdf)
+[![UX/UI Designer](https://img.shields.io/badge/UX/UI%20Designer-%23E34F26.svg?style=for-the-badge&logo=UX/UI&logoColor=fff)](https://hermes.dio.me/certificates/ZYOOBXTY.pdf)
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff)](https://www.dio.me/certificate/65795E84/share)
 
