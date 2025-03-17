@@ -55,7 +55,10 @@
 
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=wallaskoelho&repo=DIO-js-developer-pokedex)](https://github.com/wallaskoelho/DIO-js-developer-pokedex)
 
+
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=wallaskoelho&repo=DIO-js-developer-pokedex)](https://github.com/wallaskoelho/DIO-js-developer-pokedex)
+
+
 
 
 # Soft Skill
