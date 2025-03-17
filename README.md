@@ -45,7 +45,7 @@
 [![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)](https://elementor.com/)
 [![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)](https://woo.com/pt-br/woocommerce/)
 
-
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wallaskoelho&layout=pie&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
@@ -72,7 +72,7 @@ A Arte dos Preços: A Diferença entre o Lucro e o Prejuízo
 A Arte da Imperfeição para o Desenvolvimento Pessoal
 
 
-## GitHub Stats
+
 
 
 
