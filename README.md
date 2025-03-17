@@ -52,11 +52,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaskoelho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=79FF97&title_color=E94D5F&text_color=FFF)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaskoelho&repo=DIO-js-developer-pokedex)](https://github.com/anuraghazra/github-readme-stats)
+[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=wallaskoelho&repo=DIO-js-developer-pokedex)](https://github.com/wallaskoelho/DIO-js-developer-pokedex)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaskoelho&repo=DIO-js-developer-pokedex)](https://github.com/anuraghazra/github-readme-stats)
+[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=wallaskoelho&repo=DIO-js-developer-pokedex)](https://github.com/wallaskoelho/DIO-js-developer-pokedex)
 
 
 # Soft Skill
