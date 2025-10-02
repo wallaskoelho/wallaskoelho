@@ -2,7 +2,7 @@
 # Wallas Koelho
 
 
-## Desenvolvedor Full Stack em formação | Graduando em Engenharia Da Computação 1/8 | JS, Angular, Node.js
+## Desenvolvedor Android Mobile Java/Kotlin/Jatpack | Engenharia Da Computação 2/8
 
 ### Conecte-se comigo
 
