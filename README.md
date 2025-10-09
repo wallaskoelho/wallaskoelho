@@ -2,16 +2,14 @@
   <h1>Wallas Koelho</h1>
   
   <h2>Desenvolvedor Android Mobile Java/Kotlin/Jatpack | Engenharia Da Computação 2/8</h2>
+
+  <h3>Conecte-se comigo</h3>
 </html>
 
 
 
-# Wallas Koelho
 
-
-## Desenvolvedor Android Mobile Java/Kotlin/Jatpack | Engenharia Da Computação 2/8
-
-### Conecte-se comigo
+### 
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO.ME-000?style=for-the-badge)](https://www.dio.me/users/cbw_coelho)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wallas-koelho/)
