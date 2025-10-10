@@ -24,6 +24,26 @@
 [![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)](java.com)
 [![kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](klotin.com)
 
+<a href="https://kotlinlang.org/" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg" 
+    alt="Kotlin Logo" 
+    style="height:20px; vertical-align:middle; margin-right:6px;">
+</a>
+<span style="
+  display:inline-block;
+  background: linear-gradient(45deg, #7F52FF, #FF6C37);
+  color:white;
+  font-weight:bold;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  padding: 6px 12px;
+  border-radius: 6px;
+  vertical-align:middle;
+">
+  Kotlin
+</span>
+
+
 [![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=fff)](https://www.dio.me/certificate/H710NFI5/share)
 [![SASS,SCSS](https://img.shields.io/badge/sass/scss-cc6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-1A239C?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://www.dio.me/certificate/0NIBQZEC/share)
