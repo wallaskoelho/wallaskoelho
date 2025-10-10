@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE HTML>
+<html lang="pt=br">
   <h1>Wallas Koelho</h1>
   
   <h2>Desenvolvedor Android Mobile Java/Kotlin/Jatpack | Engenharia Da Computação 2/8</h2>
