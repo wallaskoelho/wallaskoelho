@@ -17,28 +17,15 @@
  <h3> Hard Skills </h3>
 
 
-[![UX/UI Designer](https://img.shields.io/badge/UX/UI%20Designer-%23E34F26.svg?style=for-the-badge&logo=UX/UI&logoColor=fff)](https://hermes.dio.me/certificates/ZYOOBXTY.pdf)
-[![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.dio.me/certificate/CAFF7065/share)
+[![UX/UI Designer](https://img.shields.io/badge/UX/UI%20Designer-%23E34F26.svg?style=for-the-badge&logo=UX/UI&logoColor=fff)]
+[![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)]
 
-[![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)](https://www.java.com)
-[![kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https///://www.klotin.com)
+[![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]
+[![kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]
 
-[![Android Studio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=4285F4)](https://developer.android.com/studio)
+[![Android Studio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=4285F4)]
 
-<a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=4285F4" alt="Android Studio">
-</a>
-
-<a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
-  <svg width="150" height="40" xmlns="http://www.w3.org/2000/svg">
-    <rect width="150" height="40" fill="#3DDC84" rx="8"/>
-    <text x="50%" y="55%" text-anchor="middle" fill="#000" font-size="16" font-family="sans-serif">Android Studio</text>
-  </svg>
-</a>
-
-
-
-[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=000)](https://www.android.com)
+[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=000)]
 
 
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
