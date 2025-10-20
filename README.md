@@ -25,6 +25,11 @@
 
 [![Android Studio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=4285F4)](https://developer.android.com/studio)
 
+<a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=4285F4" alt="Android Studio">
+</a>
+
+
 [![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=000)](https://www.android.com)
 
 
