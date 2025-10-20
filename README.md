@@ -29,6 +29,14 @@
   <img src="https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=4285F4" alt="Android Studio">
 </a>
 
+<a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
+  <svg width="150" height="40" xmlns="http://www.w3.org/2000/svg">
+    <rect width="150" height="40" fill="#3DDC84" rx="8"/>
+    <text x="50%" y="55%" text-anchor="middle" fill="#000" font-size="16" font-family="sans-serif">Android Studio</text>
+  </svg>
+</a>
+
+
 
 [![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=000)](https://www.android.com)
 
