@@ -17,11 +17,11 @@
  <h3> Hard Skills </h3>
 
 
-[![UX/UI Designer](https://img.shields.io/badge/UX/UI%20Designer-%23E34F26.svg?style=for-the-badge&logo=UX/UI&logoColor=fff)]
+[![UX/UI Designer](https://img.shields.io/badge/UX/UI%20Designer-%23E34F26.svg?style=for-the-badge&logo=UX/UI&logoColor=fff)]()
 [![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)]()
 
-[![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]
-[![kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]
+[![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]()
+[kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 [![Android Studio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=4285F4)]
 
