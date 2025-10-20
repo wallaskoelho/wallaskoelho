@@ -18,38 +18,15 @@
 
 
 [![UX/UI Designer](https://img.shields.io/badge/UX/UI%20Designer-%23E34F26.svg?style=for-the-badge&logo=UX/UI&logoColor=fff)](https://hermes.dio.me/certificates/ZYOOBXTY.pdf)
-
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff)](https://www.dio.me/certificate/65795E84/share)
+[![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.dio.me/certificate/CAFF7065/share)
 
 [![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)](java.com)
 [![kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](klotin.com)
 
 
-
-[![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=fff)](https://www.dio.me/certificate/H710NFI5/share)
-[![SASS,SCSS](https://img.shields.io/badge/sass/scss-cc6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-1A239C?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://www.dio.me/certificate/0NIBQZEC/share)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_css-38BDF8?style=for-the-badge&logo=Tailwind-css&logoColor=fff)](https://www.dio.me/certificate/INZZBETF/share)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330
-)](https://www.dio.me/certificate/VINLEJFK/share)
-[![NODE.JS](https://img.shields.io/badge/node.js-417E38?style=for-the-badge&logo=node.js&logoColor=fff)](https://www.dio.me/certificate/0A0MSPEN/share)
-[![Angular](https://img.shields.io/badge/angular-D6002F?style=for-the-badge&logo=angular&logoColor=fff)](https://hermes.dio.me/certificates/ASGZK4QA.pdf)
-
-
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B008B?style=for-the-badge&logo=Cybersecurity&logoColor=fff)](https://hermes.dio.me/certificates/BL8MX63X.pdf)
-
-
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/wallaskoelho/)
 
-[![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.dio.me/certificate/CAFF7065/share)
-
-
-
-[![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=fff)](https://wordpress.org/)
-[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=fff)](https://elementor.com/)
-[![WooCommerce](https://img.shields.io/badge/-woocommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=fff)](https://woo.com/pt-br/woocommerce/)
 
  <h3>GitHub Stats</h3> 
 
