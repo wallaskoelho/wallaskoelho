@@ -20,10 +20,12 @@
 [![UX/UI Designer](https://img.shields.io/badge/UX/UI%20Designer-%23E34F26.svg?style=for-the-badge&logo=UX/UI&logoColor=fff)](https://hermes.dio.me/certificates/ZYOOBXTY.pdf)
 [![FIGMA](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.dio.me/certificate/CAFF7065/share)
 
-[![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)](java.com)
-[![kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](klotin.com)
+[![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)](https://www.java.com)
+[![kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https///://www.klotin.com)
 
-[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=000)](android.com)
+[![Android Studio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=4285F4)](https://developer.android.com/studio)
+
+[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=000)](https://www.android.com)
 
 
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
