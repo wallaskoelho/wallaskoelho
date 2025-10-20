@@ -23,6 +23,8 @@
 [![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)](java.com)
 [![kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](klotin.com)
 
+[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=000)](android.com)
+
 
 [![Git](https://img.shields.io/badge/Git-fb503b?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/wallaskoelho/)
